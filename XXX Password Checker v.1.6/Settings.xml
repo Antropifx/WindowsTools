@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XXX_Password_Checker>
+  <Section Name="frmMain">
+    <Key Name="txtURLs" Value="http://6pikylab96:4nabath88@bagbros.com" />
+    <Key Name="txtUserAgent" Value="Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)" />
+    <Key Name="numTimeOut" Value="1000" />
+    <Key Name="chkSort" Value="True" />
+    <Key Name="txtURLsError" Value="http://6pikylab96:4nabath88@bagbros.com (Server error or not found)&#xD;&#xA;" />
+    <Key Name="txtParseOK" Value="http://6pikylab96:4nabath88@bagbros.com&#xD;&#xA;" />
+    <Key Name="txtTool_3" Value="" />
+    <Key Name="txtTool_2" Value="" />
+    <Key Name="txtTool_1" Value="" />
+    <Key Name="lvwReqDetails" Value="0" />
+    <Key Name="txtURLsOK_2" Value="" />
+    <Key Name="txtURLsOK" Value="" />
+    <Key Name="txtParseError" Value="http://6pikylab96:4nabath88@bagbros.com&#xD;&#xA;" />
+  </Section>
+  <Section Name="frmMain:lvwReqDetails">
+    <Key Name="Columns" Value="43|198|91|98" />
+  </Section>
+</XXX_Password_Checker>
